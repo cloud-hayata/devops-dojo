@@ -43,7 +43,7 @@
 
 ## 補足
 
-このリポジトリは `cloud-architecture-portfolio` にて完成した  
+このリポジトリは [`cloud-architecture-portfolio`](https://github.com/cloud-hayata/cloud-architecture-portfolio) にて完成した
 - GUI構築（Step1）  
 - Terraform構成（Step2）  
 - サーバレス（Step3）  
