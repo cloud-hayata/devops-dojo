@@ -22,7 +22,7 @@ GitHubとの連携による自動デプロイ環境（CI/CD）を**最小構成*
 
 ※構成図は現在作成中（外注予定）。以下は構成のイメージ：
 
-[GitHub] → [Webhook] → [EC2 (Jenkins)] → [Deploy Script] → [アプリサーバ]
+[GitHub] → [Webhook] → [Jenkins（EC2）] → [deploy.sh] → [アプリ反映]
 
 ---
 
